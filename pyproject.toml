@@ -1,0 +1,25 @@
+[project]
+name = "ml"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "catboost>=1.2.10",
+    "imblearn>=0.0",
+    "ipykernel>=7.2.0",
+    "kagglehub>=1.0.0",
+    "lightgbm>=4.6.0",
+    "mlxtend>=0.24.0",
+    "numpy>=2.4.3",
+    "optuna>=4.8.0",
+    "pandas>=3.0.1",
+    "polars>=1.39.3",
+    "pyarrow>=23.0.1",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "sweetviz>=2.3.1",
+    "tqdm>=4.67.3",
+    "xgboost>=3.2.0",
+]
